@@ -1,1 +1,14 @@
+<!-- Logo de Chorizos -->
+<img src="img/logo-chorizos.png" alt="Logo Chorizos J&A">
 
+<!-- Logo de Morcillas -->
+<img src="img/logo-morcillas.png" alt="Logo Morcillas J&A">
+
+<!-- Chorizos en bandeja -->
+<img src="img/chorizos-bandeja.jpg" alt="Chorizos en bandeja">
+
+<!-- Morcillas en bandeja -->
+<img src="img/morcillas-bandeja.jpg" alt="Morcillas en bandeja">
+
+<!-- Fondo -->
+<div class="hero" style="background-image: url('img/fondo.jpg');">
