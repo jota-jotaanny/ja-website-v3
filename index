@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>J&A Chorizos y Morcillas Artesanales</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <img src="img/logo-chorizos.png" alt="Logo Chorizos J&A" class="logo">
+    <h1>J&A Chorizos y Morcillas Artesanales</h1>
+  </header>
+
+  <section class="hero">
+    <img src="img/morcilla-bandeja.jpg" alt="Morcillas Artesanales">
+    <h2>El auténtico sabor de Santa Marta</h2>
+    <p>Pedidos al <strong>320 657 4077</strong></p>
+  </section>
+
+  <section class="productos">
+    <div class="producto">
+      <img src="img/chorizos-bandeja.jpg" alt="Bandeja de Chorizos">
+      <h3>Bandeja de 5 Chorizos</h3>
+      <p>$20.000</p>
+    </div>
+    <div class="producto">
+      <img src="img/morcilla-bandeja.jpg" alt="Kilo de Morcilla">
+      <h3>Kilo de Morcilla</h3>
+      <p>$22.000</p>
+    </div>
+    <div class="producto">
+      <img src="img/combo.jpg" alt="Combo Asados J&A">
+      <h3>Combo Asados J&A</h3>
+      <p>1 Kilo de Morcilla + 1 Bandeja de Chorizos</p>
+      <p><strong>$40.000</strong></p>
+    </div>
+  </section>
+
+  <footer>
+    <p>© 2025 J&A Chorizos y Morcillas Artesanales - Santa Marta</p>
+  </footer>
+</body>
+</html>
